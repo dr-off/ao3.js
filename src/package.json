@@ -1,0 +1,14 @@
+{
+  "name": "ao3.js",
+  "version": "1.0.0",
+  "description": "A JavaScript module for getting information from the Archive of Our Own.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ao3"
+  ],
+  "author": "Dr. Off",
+  "license": "GPL-3.0"
+}
